@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b53305-963a-4b62-a1ab-d5ee76dc66bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operaters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userinputoutput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controlstatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evenoddnumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largestnumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temperature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trapezium.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userinputoutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/userinputoutput.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +48,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.calculator.executor": "Run",
+    "Python.controlstatements.executor": "Run",
     "Python.datatypes.executor": "Run",
+    "Python.evenoddnumber.executor": "Run",
+    "Python.functions.executor": "Run",
     "Python.introduction.executor": "Run",
+    "Python.largestnumber.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.module.executor": "Run",
     "Python.operaters.executor": "Run",
+    "Python.primenumber.executor": "Run",
     "Python.strings.executor": "Run",
+    "Python.temperature.executor": "Run",
+    "Python.trapezium.executor": "Run",
     "Python.userinputoutput.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
