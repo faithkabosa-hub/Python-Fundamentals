@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b53305-963a-4b62-a1ab-d5ee76dc66bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controlstatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evenoddnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largestnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primenumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trapezium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptionhandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userinputoutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/userinputoutput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +48,14 @@
     "Python.controlstatements.executor": "Run",
     "Python.datatypes.executor": "Run",
     "Python.evenoddnumber.executor": "Run",
+    "Python.exceptionhandling.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.introduction.executor": "Run",
     "Python.largestnumber.executor": "Run",
     "Python.loops.executor": "Run",
     "Python.module.executor": "Run",
+    "Python.oop1.executor": "Run",
     "Python.operaters.executor": "Run",
     "Python.primenumber.executor": "Run",
     "Python.strings.executor": "Run",

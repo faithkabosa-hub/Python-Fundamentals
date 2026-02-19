@@ -1,7 +1,7 @@
 # Module - Any python file with functions
 #Math Module
 
-import functions, loops, math
+import functions, math
 
 functions.add(200, 100)
 functions.add(30, 70)
